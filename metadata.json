@@ -1,0 +1,7 @@
+{
+  "name": "Hangman Challenge",
+  "description": "A modern, interactive Hangman word guessing game with difficulty levels, hints, scoring, streaks, and comprehensive statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
